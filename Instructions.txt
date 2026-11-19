@@ -1,0 +1,7 @@
+- download the dataset from kaggle that is linked in the 'Dataset Description' file
+
+- place the extracted dataset files (seg_train, seg_test, seg_pred) inside another file called 'dataset' that is on the same level as your .ipynb code file
+
+- run the 'Load Dataset', 'Data Exploration', and 'Preprocess Data' sections of the code
+
+- do NOT run the 'Pretrained Model' code because it will take forever
